@@ -1,5 +1,5 @@
 public class Program
-{
+{ 
 	public static void Main()
 	{     
 		Console.WriteLine("escriba quien es  la mente de chivo");
